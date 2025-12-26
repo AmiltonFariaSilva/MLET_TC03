@@ -1,3 +1,4 @@
 # Ignorar pastas
 venv/
 bases/
+env/
