@@ -1,6 +1,6 @@
 # Tech Challenge – Fase 3 (Machine Learning Engineering)
 Este repositório contém o notebook `MLET03.ipynb` com um pipeline de análise e modelagem para prever atrasos de voos.
-O enunciado do desafio pede **EDA**, **modelagem supervisionada (comparando ao menos 2 algoritmos)**, **modelagem não supervisionada (clusterização ou redução de dimensionalidade)** e **apresentação crítica** com conclusões, limitações e próximos passos. fileciteturn1file0L26-L45
+O enunciado do desafio pede **EDA**, **modelagem supervisionada (comparando ao menos 2 algoritmos)**, **modelagem não supervisionada (clusterização ou redução de dimensionalidade)** e **apresentação crítica** com conclusões, limitações e próximos passos.
 ## Checklist do enunciado vs. notebook
 | Item do enunciado | Status | Observação |
 |---|---:|---|
