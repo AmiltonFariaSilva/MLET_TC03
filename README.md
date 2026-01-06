@@ -13,7 +13,7 @@ O enunciado do desafio pede **EDA**, **modelagem supervisionada (comparando ao m
 | Não supervisionado: gráficos + interpretação | Parcial | Há gráfico de clusters, mas falta texto interpretando clusters e implicações. |
 | Apresentação crítica: conclusões | Parcial | Resultados aparecem via métricas/gráficos; falta seção textual consolidando conclusões. |
 | Apresentação crítica: limitações e melhorias | False | Não há seção explícita de limitações, riscos, e próximos passos no notebook. |
-| Entregáveis: repositório + vídeo | Fora do notebook | Precisa gravar vídeo (5–10 min) e organizar repo/README. fileciteturn1file1L34-L37 |
+| Entregáveis: repositório + vídeo | Fora do notebook | Precisa gravar vídeo (5–10 min) e organizar repo/README.
 
 ## O que eu recomendaria acrescentar (para fechar 100%)
 1. **Narrativa/relatório**: um bloco final com *principais achados*, *comparação objetiva dos modelos*, *trade-offs*, *limitações* e *próximos passos*.
