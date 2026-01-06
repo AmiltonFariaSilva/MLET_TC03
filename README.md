@@ -398,21 +398,3 @@ plt.ylabel("Atraso médio de chegada (min)")
 plt.xticks(range(1,13))
 plt.show()
 ```
-
-### Célula 25: (célula vazia)
-- **O que faz:** Remover ou preencher com texto/conclusão.
-- **Trecho (início da célula):**
-```python
-
-```
-- **Notas / melhorias sugeridas:**
-  - Célula vazia: remover ou usar para conclusões/limitações/próximos passos.
-
-### Célula 26: (célula vazia)
-- **O que faz:** Remover ou preencher com texto/conclusão.
-- **Trecho (início da célula):**
-```python
-
-```
-- **Notas / melhorias sugeridas:**
-  - Célula vazia: remover ou usar para conclusões/limitações/próximos passos.
